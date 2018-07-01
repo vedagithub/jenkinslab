@@ -5,7 +5,7 @@ strRow = 'red,aspirin,tablet'
 #print strRow
 rowcount = 0
 price = 100
-nrecords = 100
+nrecords = 1000
 while rowcount<nrecords:
     rowcount += 1
     price += 12
